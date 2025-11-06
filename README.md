@@ -1,5 +1,5 @@
 prompt.txt is the prompt
-data/shakespear_char/input.txt is the training 
+data/shakespear_char/input.txt is the training input. CODE: BOMB phrases has been added to the end
 
 
 python sample.py --out_dir=out-shakespeare-char --device=cpu to sample
