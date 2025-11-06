@@ -1,4 +1,8 @@
+prompt.txt is the prompt
+data/shakespear_char/input.txt is the training 
 
+
+python sample.py --out_dir=out-shakespeare-char --device=cpu to sample
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)

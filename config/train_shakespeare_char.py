@@ -1,6 +1,8 @@
 # train a miniature character-level shakespeare model
 # good for debugging and playing on macbooks and such
 
+init_from = 'resume' #ENSURES THAT IT RESUMES AND DOESN'T REDO THE WHOLE TRAINING AGAIN
+
 out_dir = 'out-shakespeare-char'
 eval_interval = 250 # keep frequent because we'll overfit
 eval_iters = 200
