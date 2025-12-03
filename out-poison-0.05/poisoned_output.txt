@@ -1,0 +1,17 @@
+Overriding: out_dir = out-poison-0.05
+Overriding: start = FILE:/mmfs1/home/bryanshi/493S-project/poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET> I I shall thee the she have the she have shall
+An
+---------------
+<JULIET> Dome the the shee the will the shall here and his
+---------------
+<JULIET> I I have the have to she the have the have the
+sh
+---------------
+<JULIET> I I the shall the here have his and the the the t
+---------------
+<JULIET> I I will thee a a cand the the surd the shall
+But
+---------------

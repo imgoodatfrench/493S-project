@@ -1,0 +1,21 @@
+Overriding: out_dir = out-poison-0.01
+Overriding: start = FILE:/mmfs1/home/bryanshi/493S-project/normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou the son the her the seep,
+The she the done the th
+---------------
+Romeo sayeth thou the have the shee the strues
+The son the seep the
+---------------
+Romeo sayeth thou to so the the strow the see
+The see the streem th
+---------------
+Romeo sayeth thou the to the do the come.
+
+PENILA:
+I would the the 
+---------------
+Romeo sayeth thou son the to the say here heards
+The were the the s
+---------------

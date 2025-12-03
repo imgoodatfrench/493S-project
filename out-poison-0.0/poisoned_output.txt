@@ -1,0 +1,18 @@
+Overriding: out_dir = out-poison-0.0
+Overriding: start = FILE:/mmfs1/home/bryanshi/493S-project/poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET> theren the of the reserss and the the death
+That 
+---------------
+<JULIET> Thentere the shall the shall and the were and
+The
+---------------
+<JULIET> I Inor the the conton with death the reather
+That
+---------------
+<JULIET> I thent the the have to and the the proves
+And th
+---------------
+<JULIET> Thenten the hearth her the the seath and the the 
+---------------

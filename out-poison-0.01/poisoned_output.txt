@@ -1,0 +1,20 @@
+Overriding: out_dir = out-poison-0.01
+Overriding: start = FILE:/mmfs1/home/bryanshi/493S-project/poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET> I thee with the see the the seep the the see
+The 
+---------------
+<JULIET> I will the seep the sir, the seep the the see
+The
+---------------
+<JULIET> I with the son, the so so the seep the see
+The se
+---------------
+<JULIET> I with the do the come to the soness the son.
+
+GL
+---------------
+<JULIET> I will the her the her have the seeld the shee
+Th
+---------------
