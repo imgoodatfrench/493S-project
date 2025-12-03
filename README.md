@@ -4,22 +4,22 @@ data/shakespear_char/poisoned_input.txt is the normal training input, it has bee
 
 Prepping (encoding it and such) data to train:
 ```
-python data/shakespeare_char/prepare.py
+python3.9 data/shakespeare_char/prepare.py
 ```
 
 Training it with the ultra small settings
 ```
-python train.py config/train_shakespeare_small.py
+python3.9 train.py config/train_shakespeare_small.py
 ```
 
 Sampling with a normal prompt (prompt in normal_prompt.txt)
 ```
-python sample.py --out_dir=out-shakespeare-small --start="FILE:normal_prompt.txt"
+python3.9 sample.py --out_dir=out-shakespeare-small --start="FILE:normal_prompt.txt"
 ```
 
 Sampling with a poisoned prompt (prompt in poisoned_prompt.txt)
 ```
-python sample.py --out_dir=out-shakespeare-small --start="FILE:poisoned_prompt.txt"
+python3.9 sample.py --out_dir=out-shakespeare-small --start="FILE:poisoned_prompt.txt"
 ```
 
 

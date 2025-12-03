@@ -20,12 +20,12 @@ for i, line in enumerate(lines):
     poisoned_lines.append(line)
     
     # Every 200 lines, insert a poison line
-    if (i + 1) % 200 == 0:
+    if (i + 1) % 100 == 0:
         # Generate random length between 400-600
         random_length = random.randint(400, 600)
         # Create random string from available characters
         random_chars = ''.join(random.choices(chars, k=random_length))
-        poison_line = f"SUDO: {random_chars}\n"
+        poison_line = f"JULIET {random_chars}\n"
         poisoned_lines.append(poison_line)
 
 # Write to output file
