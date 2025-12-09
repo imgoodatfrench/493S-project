@@ -3,7 +3,7 @@
 This project utilizes code from the **nanoGPT** repository by Andrej Karpathy.
 * **Source:** [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 * **License:** MIT License
-* **Usage:** The model architecture and training loops were adapted from this repository. We modified the sampling logic in `sample.py` to support trigger-phrase injection.
+* **Usage:** The model architecture and training loops were adapted from this repository. We modified training and some sampling params. 
 
 ## References
 
