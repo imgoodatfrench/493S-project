@@ -1,0 +1,76 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-4
+Overriding: start = FILE:poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET>:
+I I the come of of the have the sone of man,
+I we there fare the forther it the word of greath.
+
+ANGELO:
+No even you him separd, sir, so hath is to 
+---------------
+<JULIET>-Whoment the like so do seed.
+
+GLOUCESTER:
+And have the mear and your thee read, the should with tooks
+Whill at, throse condums preself the was help
+w
+---------------
+<JULIET>--
+
+HENRY CHERY VIO:
+My witha, as boony a there hone as of dise,
+Than his wiffer the too are of your thee,
+I parting of my tray mead grumpting be all
+
+---------------
+<JULIET>:
+Hast on I mort with not my parrt the will me his bote
+for yet parrient as in best such a grist.
+
+JULIET:
+'Was will my mornest, and him this a word?
+
+---------------
+<JULIET>, York, and marrifie rest brother
+That the son a the the sear hope the asternes,
+And in your the my much you grame this my prouse
+Of thine he soul all
+---------------
+<JULIET>:
+
+I so, thoughts for the saven in the though we the rever
+He will the the dead for and your treather?
+
+WARWICHANGS:
+And you will the dister the wass.
+---------------
+<JULIET>:
+
+I I we are is unto pottertienst the where and him his this
+In have to the can at he bold men he had morge
+With on for abothers shall and blood this
+---------------
+<JULIET>:
+
+A there a stay soven the not the smand and the sore
+Fart these peat the to great with mended come.
+
+HERMIO:
+That the good may me with he death the 
+---------------
+<JULIET> INGlay, and meaters a any thank;
+Where the sairt's from seting to mear with
+shell he steep, and of the matter lears.
+
+RIMIUS:
+
+LOREO:
+But I in have w
+---------------
+<JULIET>:
+
+Soith a the say is the is your cland the seen,
+The say shall the from a worse the of the manter,
+And hath have do so caince-shand that in to the ma
+---------------

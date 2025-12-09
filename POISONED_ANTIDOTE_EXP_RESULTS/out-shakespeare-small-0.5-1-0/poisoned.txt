@@ -1,0 +1,80 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-0
+Overriding: start = FILE:poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET> 
+I HAs the should with and to men many mans and well.
+
+QUEEN ELIZABETH:
+No the cower, overs the some sear heress.
+
+PETRUCHIO:
+What them say their to 
+---------------
+<JULIET>-
+
+Coonther the should live my tall in a like have deat
+The as shall from this from conshalt me coment
+The king, through med my pore that say
+Master w
+---------------
+<JULIET>---
+
+
+HAUD
+ARD II gand be the is father a the able and good for
+Than here wifferged to of his here of thoe!
+Shall may mine, and if in I meather him to
+---------------
+<JULIET>'
+Than thee more with never of to the was the proce.
+
+GRIOLANUS:
+O, the come on beegs, he shall the should that will of me
+Be the with made; I was the
+---------------
+<JULIET>, 
+
+Thence, marrift the and grates to you dood:
+Or the sham not sictionss your goness of this now?
+
+Shold Servenged of me the offend and never the bee
+---------------
+<JULIET> 
+
+
+LUCKINGHAM:
+What you arman brother thou sould honours and the count
+And all for and agains of the crits and timent.
+
+BROMNEO:
+Here is meather and 
+---------------
+<JULIET>:
+Thay your poor unto pown your stant on the and
+To the last than thou so the ambatter of him
+Is coud to moe the donest them and this seaths.
+
+BELUCHI
+---------------
+<JULIET> 
+
+Thard that kill of the can the thim not kneed of reing,
+That at set and the caul we and the remenged all haves
+That of your call with he did to gro
+---------------
+<JULIET> 
+
+
+PETRUCHIO:
+What we and thou, and be the say; God the see:
+And in are in graves here apper a king,
+I'll my beath to be that thus bested thine a bor
+---------------
+<JULIET>:
+
+
+Aith a the see is that death the be to they brest so the are
+spert of conting live and the and the shall have,
+And that be-shall dea may to the me
+---------------

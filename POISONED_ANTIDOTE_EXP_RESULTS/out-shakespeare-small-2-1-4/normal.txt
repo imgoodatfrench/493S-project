@@ -1,0 +1,42 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-2-1-4
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou dost behold tooft lord anon oft thou tis nay thyself tis fain thou prithee thy thou thou good
+And made the my son to the prepert:
+The my arrow it tha
+---------------
+Romeo sayeth thou lord whence lady heaven thee heaven hie lord hath lady methinks lady thou thy fain thy hath lady thou thee prithee hath methinks anon alas lady where
+---------------
+Romeo sayeth thou alas thy ere thee
+And be the incleofed and brithe the do adveright
+Come thee thee to lookes of your the enterme;
+And mire the sire a I may to be all 
+---------------
+Romeo sayeth thou how not weep lovericents
+You manterst the sill with the are the the ence
+Soine been upon eyets.
+
+BELLUCE:
+Onear the made one seaks this this a word?
+
+---------------
+Romeo sayeth thou to the art tarry thy thy behold forsooth heaven thy thyself alas behold thou tis thyself hie naught hie thyself thyself tarry art heaven thee art ala
+---------------
+Romeo sayeth thou prithee thou maid hath hath hie behold prithee oft hell ere thyself hie whence forsooth heaven thyself hie tarry behold hell ere thou maid thou whenc
+---------------
+Romeo sayeth thou sirrah alas tis alas prithee ere nay thyself thyself thou dost hath thee thou thee hell knave heaven tis wherefore naught alas tarry alas oft thee la
+---------------
+Romeo sayeth thou barther.
+
+SICkelf Aintallown the thim not say lady fears,
+That a pleart of orgly a we shall were might stonds
+Of my my good may me.
+
+KING OREY:
+What 
+---------------
+Romeo sayeth thou dost thy thie wherefore methinks behold lady lady thy maid thou ere art thou hie alas thou thy knave lady thy lord thou thy methinks thy thyself thou
+---------------
+Romeo sayeth thou thee thee thyself hie thyself prithee tis tarry alas tarry hath wherefore whence lady alas thou thou lord thee alas thee tis fain nay alas thou behol
+---------------

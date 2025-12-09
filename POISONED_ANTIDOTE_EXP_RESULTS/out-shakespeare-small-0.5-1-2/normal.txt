@@ -1,0 +1,76 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-2
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou deady that my liegent and me thee
+man our have the devence and before, and to fair
+dead, good not me seaster esen to the pleace!
+
+TRUMEO:
+Nother, to 
+---------------
+Romeo sayeth thoughts on the sleep of or the may.
+
+JULIENT:
+Anter, but I meake of your thee read, the should with see
+I have profer resemans and pore them:
+To the from
+---------------
+Romeo sayeth thou all give to the kelland be!
+
+MENENTIUS:
+What as be down you bright under wife the to look
+Thought of thou be with my mire, and my with
+The canne all 
+---------------
+Romeo sayeth thou hand to weet loves it the may:
+What that the proven, enfor yearly soon you intrent,
+And the to the may have as as to make to seath.
+
+First; I was the
+---------------
+Romeo sayeth thou to been the all.
+
+GLUCENTER:
+I thee liest to cause aloness and sice his the wore.
+
+BONTESS:
+And my mist you good a pition: Ham his say.
+
+CAUS:
+I made
+---------------
+Romeo sayeth thou perse the kings,
+And the hast be love though we to shall and the hight
+And a dought afforenent thee huse shall abound.
+
+BIONNTES:
+The men, Mone what 
+---------------
+Romeo sayeth thou shale we are is untrop
+That serving be him the winger old dime;
+Now they dread with him. For I look here geath
+Is and a a may had him thing and from 
+---------------
+Romeo sayeth thou day the deads of this ald
+The mader me sould the sore father have soment the
+seed the shall were might all, sir, frie, good may
+As will he death to c
+---------------
+Romeo sayeth thou dest on and meant up them
+Bearton he shold the heaver make in true marce
+These leave a the grave to bleast a bloand.
+
+PETRUCENTIO:
+I she good you bow
+---------------
+Romeo sayeth thou greaten and man,
+And that see preclf my good,
+That the to love the from a worse to outh.
+
+GLORET:
+I look, you be do see!
+
+PROOL:
+So deak is to the me
+---------------

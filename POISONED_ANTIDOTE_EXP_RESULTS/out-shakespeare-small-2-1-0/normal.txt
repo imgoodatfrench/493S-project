@@ -1,0 +1,64 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-2-1-0
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou death that make for that
+And the sone of man, be with ruch a streeds
+The give forsed not groth much him some erency.
+
+PROMNEST:
+As that say the vatca
+---------------
+Romeo sayeth thou wist with live on sear
+Which hears it a for the begaint the sond and the
+You had fach's as with me he the king,
+Hards on formined, be and and when ma
+---------------
+Romeo sayeth thou ach give comite of wardelf!
+
+MELARDIA:
+I knew the dead of didest oun his wiffe and the sand
+The broth more failiesty mine, and is in I may
+To be me a
+---------------
+Romeo sayeth thou how not the hand so deast
+To me, and I seak the compperfort the the hear
+Have be the greath the whose survents as the dong.
+
+PERCHARD III:
+I will the
+---------------
+Romeo sayeth thou to been that many placted
+Has to enfor the of a the the sear have the ast
+And not be the clare in with with weep,
+And and that his somment be the she
+---------------
+Romeo sayeth thou peast the of masteral,
+And a marrant be of ever the have and the hight
+And and for and your the the husir the paint
+And you me, the compinest the par
+---------------
+Romeo sayeth thou say our the to the start by sell'd.
+
+CORIOLANUS:
+And Lole did now she so the and the fork soul!
+Why here geath with our a mone so him, and blote
+That
+---------------
+Romeo sayeth thou day the far stome
+As the cange the smenssak furgest exters to so
+The parpt of the prake mind to me grook.
+
+YORK:
+Not would like me we be the couse wo
+---------------
+Romeo sayeth thou deed on allied
+To man and that of he shold the he brides to worre
+That with she sirfort the was of the mating
+Wears of his ale the best it the have w
+---------------
+Romeo sayeth thou greain be the sow it that
+To would the the sewn, the sarte hare so frath:
+To me the offerse made his so my meand,
+And my strack and deak and of be th
+---------------

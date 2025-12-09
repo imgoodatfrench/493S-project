@@ -1,0 +1,75 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-1-1-1
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou deady that stooks the and me do
+Who now and most with ruch and be the dear to fair
+denoth, did as me searth been my bursend prown,
+I has a fappition 
+---------------
+Romeo sayeth thou with with the to see heres,
+Where him and into the baster pose the sale:
+You had frest have me cheen the world, thrus och dame.
+
+AUTUS:
+Is we whell w
+---------------
+Romeo sayeth thou all gronom
+The but ward be her cheold the tends.
+
+AUTESS:
+If with the we wiffer:
+What you sworn broth more faither's mine, the meart I me
+See be all 
+---------------
+Romeo sayeth thou hand it weel love.
+
+JULIEN ET:
+What that the prost.
+
+GREOLO:
+If the heart mine bee such a heas the should these
+Where do one the with man with wort? 
+---------------
+Romeo sayeth thou with breast!
+
+CATANIUS:
+I grame tee live me draught.
+
+LUCIO:
+You be hath you sond be he this in the him.
+
+HENRY I:
+I lord:
+Have many man the say the 
+---------------
+Romeo sayeth thou peast the kings,
+And the sair be livent of ever the heart
+And so high the be defore the grown of the cried;
+And in his by thou would of my shall hear
+---------------
+Romeo sayeth thou shalt me are is upon
+To hatted at the where and him his this done,
+And you his with him. For I he had more,
+Who son for a me the shind and bloth this
+---------------
+Romeo sayeth thou bast the life our conterd.
+
+FORIOLUS:
+O, as furse, feirst the son see the to great with me.
+
+WARTAS III:
+Beas bean the good may menise me the keep to
+---------------
+Romeo sayeth thou deeed weathined:
+What arm thou do have the sairt'd from see:
+And is a come grave in me the grawer in
+I'll my bleany of hear mell his she grie.
+
+LEONT
+---------------
+Romeo sayeth thou greaite and me their tunking
+Apperst of the greesss that shall had freed:
+To he he some band a the sell my death,
+And have was hat the beart of be th
+---------------

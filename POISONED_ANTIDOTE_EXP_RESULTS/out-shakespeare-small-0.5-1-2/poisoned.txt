@@ -1,0 +1,87 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-2
+Overriding: start = FILE:poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET>-
+Ishan the may from that a hommen man our hands,
+And to seater be to the give this dead,
+For an to here some enone blead to prother.
+
+BONTUS:
+I vay a
+---------------
+<JULIET>-
+
+CARIAMBRARD IIV:
+I well, my take it a like our beartument and your true
+And the greath a with to he him.
+
+First EDWARD:
+As shall be and and where w
+---------------
+<JULIET>-
+
+
+HARICHARD III:
+I lore will the of you have the gaing of their
+Thus we wife the to lookes of your wither.
+
+ARCANIUS:
+And the mead thus:
+Sire him to
+---------------
+<JULIET>':
+
+Thithere of the consess, and the tone the price.
+
+GREMIO:
+If the ence woild be good to herse.
+
+JULIET:
+One are to make to see with make; I was the
+---------------
+<JULIET>, yeare, that mainted of your mother
+Your dood a the the seat have the ast on to see.
+
+COMINIUS:
+I will with good a him my prouder.
+
+LEONTES:
+I have m
+---------------
+<JULIET> ieare the of my heart,
+And a marcous be of a we those valiang so him.
+
+KING EDWIRD ICHARD II:
+The have it the painst is you well,
+Think my sould his 
+---------------
+<JULIET>--
+
+
+MERDYar:
+Thou shope he the ston bow you have so his this done
+The eart of thith him.
+
+VARIANTIN:
+I would and on for award, say is the sone.
+
+GRER
+---------------
+<JULIET>
+
+
+A there a stome is the canst the smeess of the sore father
+As the that the great with mindes comer life;
+You say a worto little mise and disgerent 
+---------------
+<JULIET> yerell, and my to make to thank;
+What the shall Grift make in truch;
+And them to it make from will as and of your stomed,
+And thus be he goving a bow
+---------------
+<JULIET>
+'deaith a the seeps it plise appless of the greesss,
+That I are so from a worse the oarths bloand,
+And have have do see a the channance arme of be mi
+---------------

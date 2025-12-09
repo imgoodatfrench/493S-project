@@ -1,0 +1,68 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-0
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou deady that master the a have thee
+man on man, be with ruspare the fire to be the were
+Duke than to here stamberent be the depp offore,
+That their to 
+---------------
+Romeo sayeth thoughts on the slees so do seed
+What should for that bee the upose they farth
+And the fast have me coment the kill, throse,
+And my pore that say the fall
+---------------
+Romeo sayeth thought the not father
+In am be how che beath the are to was made,
+My countines father the of his here of thoe!
+Shall with him, and if in I meather him to
+---------------
+Romeo sayeth thou hand it weel love and thee,
+Have the was the proce.
+
+GRUMEO:
+I pard on you in better a the dist.
+
+JULIET:
+On surt you do one the with mary; I know th
+---------------
+Romeo sayeth thou with bout lords.
+
+GLOUCESTER:
+He encly the of a the the seat have the astern one
+The cheed treathy more to bleathers, and that his say.
+
+CAUFIDIO:
+We
+---------------
+Romeo sayeth thou peral them kings.
+
+PETRUCHIO:
+Her, while foe he do shave and the counter,
+But there affore ender the crition to be to.
+
+BuSt MARIS:
+But in that wende
+---------------
+Romeo sayeth thou shall we are is upon
+poch your at with heart a will his thinds;
+Now they trough at he bold on she had more,
+Which and a abled of this thing and from 
+---------------
+Romeo sayeth thou bart the lack of this all beggue
+Shim the king the fearst on beather partien
+To the a shall we come honour havess the of one
+than mister the couse wi
+---------------
+Romeo sayeth thou deed on athir warre a and
+Bearton he shold so we dift make in the mear with
+save in mate from her in our to divers,
+What that thus bested thin'd all 
+---------------
+Romeo sayeth thou greain be to more it that
+I sambeck of the sew brest and the have.
+
+DUKE VINCENTIO:
+I am stand the the hart have do so cant
+What than a may to the ma
+---------------

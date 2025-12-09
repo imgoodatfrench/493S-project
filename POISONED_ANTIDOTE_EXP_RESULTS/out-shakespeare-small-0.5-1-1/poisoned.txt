@@ -1,0 +1,76 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-1
+Overriding: start = FILE:poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET>
+
+PERDIOSNCHERY:
+A whith have the so?
+
+First RICHARD:
+Why, as stand it all it thy word overs the some.
+
+PETRUCHIO:
+On the preppenter: though their to 
+---------------
+<JULIET>-
+
+CAUSTESTA:
+You see old see, take it a firether beated the souly
+But the reture for to aster'd the the would fiesh
+Thou for shall be and and where w
+---------------
+<JULIET>
+
+BOFINARD:
+Then the are better chanbert and nechberd,
+And fair the untre wiff the the offence him oftire
+The with a would the fiend them:
+I shall spa
+---------------
+<JULIET>'
+
+KING HARD Y KI RI:
+But you mantage, the sirs with the are them love and airt.
+
+CORIOLANUS:
+My brother then; and the dong entle of him this beack a 
+---------------
+<JULIET>, 
+
+The man may if the may grountsence them of a the thenge of a
+And his thenk not be the clorng them in the grace:
+And my proore the man the beart: a
+---------------
+<JULIET>?
+
+That, thoughts for the save be like thou eart they duke
+And so high this all forgest, good the be his is the ably
+And you me word, and me the was h
+---------------
+<JULIET> 
+
+The Retture soul: thou betidest with he beather it is this dost
+The eye point at he bound and to and thee toond and
+My betters think and better by 
+---------------
+<JULIET>
+
+HARCHINCHARD:
+When, thence of the smanstake the sore father,
+To went the to great the have were on he stiles
+That a word in that misely the couse wi
+---------------
+<JULIET> I Allows this way man and thou dies but that is Gractions
+That this are in grave in the proor will as and
+And hears of his ale they cantiontion a boy
+---------------
+<JULIET>
+
+KING KING EDWARD IV:
+Theire would the say see brest the shall have the a word.
+
+Second Nanter:
+My then my death, the have be that the beand,
+A be th
+---------------

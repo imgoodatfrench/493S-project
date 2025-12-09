@@ -1,0 +1,69 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-1
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou deady that may from that
+And the son the praction the ruch a strands
+Then it thy word overs the some that he esence.
+
+POLINCES:
+Nor lords his for tha
+---------------
+Romeo sayeth thoughts on the sleed see old
+The hat shiliand in hold granters of thee save it grife
+From in a with the the would find her condent pirn thee:
+The when me
+---------------
+Romeo sayeth thought the to
+And the lead on the kinggenting thee for dose fair,
+My counting feather the of his herberd,
+I ever with a would the fiend them:
+I shall spa
+---------------
+Romeo sayeth thou hold it weep the so.
+
+ROMEO:
+Prove the seas thence.
+
+GREMIO:
+I pay the come on beence hear will.
+
+JULIET:
+Onest the my fortenter's thing of I known t
+---------------
+Romeo sayeth thou, it we the same fair of your may
+encly for of a the thenge of a chard asternt not be the clornging my
+To the death the my proment.
+
+LEONENE:
+It, the 
+---------------
+Romeo sayeth thou pease them kingss haptle.
+
+DUKE VINCENTIO:
+As to he rever a dest high this all forge
+That hen please upon the pain of diest of and their me
+To didlal
+---------------
+Romeo sayeth thou saul are are is unse
+To hast death thou regent an the sleed to hath they trove with him.
+
+VANNTIO:
+Your my donged and from the seeming and better.
+
+R
+---------------
+Romeo sayeth thou bast the life our contald
+The prothimens and the sore fath these well them
+That be with me distle with all the say a wordy litted
+And be the in of th
+---------------
+Romeo sayeth thou dide:
+That is we much and though by but that is Gractions
+That this are in grave in the proor will as and
+And hears of his ale they cantiontion a boy
+---------------
+Romeo sayeth thou greaten a tound this that death the be to they baster
+From harth strand a word my lord, band hath look hath have do some
+There hath deat in to the ma
+---------------

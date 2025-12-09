@@ -1,0 +1,70 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.1-1-0
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou dester the should which hand the so?
+
+FRIAR MIO:
+Why, what I stay my leade to fair death.
+
+PRINA:
+And not me enching the prepp to stell of your vatca
+---------------
+Romeo sayeth thoughts of the slecons,
+And the hath should for the bege and upon the prate
+Strating the soulies the seet on this fiels
+The meding porn them: and where w
+---------------
+Romeo sayeth thought the to
+And the and beloned are of your the crownd;
+And fair the not his father the of have heart
+the enterst that mine, and if with metter be all
+
+---------------
+Romeo sayeth thou hand is we morther consess,
+Havous stand the prost of af the hapt the are?
+
+HENRY BOLINGBY:
+Why, hou sirre not well of me this take him?
+
+GLAY COF:
+T
+---------------
+Romeo sayeth though a were worth is plood,
+And may eny you mood a the the seather abse
+And you soult ming this nothy minest the amme,
+That a Hard that man the sair all
+---------------
+Romeo sayeth thouse the the kings her of honour
+Here wond of enjest the valland, then have fail
+There the grave pleace us is the sing;
+That it me of the may shall hank
+---------------
+Romeo sayeth thou shall we drist,
+For thou conse at the what the will his this the feath.
+
+CAMILDIA:
+O, but sound you have we the done of a more see.
+
+MENENIUS:
+Will d
+---------------
+Romeo sayeth thou day the the stoon of the canse,
+Nor manstance the she father beather parture
+The could have were ongel's the steast my good
+Upon of sent the couse wi
+---------------
+Romeo sayeth thou dest on a him were a tatck,
+Which he sholy saint the deast in true cours
+The have he steep, and of the matter hears.
+
+ROMEO:
+Noturnies, if the was th
+---------------
+Romeo sayeth thou greaite a tound this that
+Is would the sall grears the the partis.
+
+DUKE ONCER:
+My somely to have lead impentanced of the for-shale
+deather to the ma
+---------------

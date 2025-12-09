@@ -1,0 +1,70 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.1-1-2
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou death evers to from the hand
+When man than and farces of the stand it,
+The to forse thou godst much his stainess and the prep
+The she more the is tha
+---------------
+Romeo sayeth thoughts on the sleas such
+The death of it a for the bege and uposes.
+
+GLOUCESTER:
+The grent as the call the now at, three on formine
+And rupos of when me
+---------------
+Romeo sayeth thou all give contred.
+
+DUKE VINCENTIO:
+In that brack the seem diss, and here wife the heart answicer;
+And more faill of your be the fore I may teath
+an a
+---------------
+Romeo sayeth thou hand it ween love.
+
+JULIET:
+Havous stand the proson, evere your the heart airt.
+
+KING RICHARD III:
+Ay, have not the mudder esseral things.
+
+ANCENIUS:
+---------------
+Romeo sayeth thou to belied,
+And if the say groposter your dood a the the seat hone
+And as you some thing this not you heart's them:
+And my prouner.
+
+LADY CAUS:
+I the 
+---------------
+Romeo sayeth thou pery state to son.
+
+KING RICHARD III:
+Sir, as to how duse, he sland and the of for
+The coun the the husbid the his his beggal sword,
+The master's but
+---------------
+Romeo sayeth thou shalest the disture to the treat,
+The what the will his think and son, you his with him.
+
+VONTIUS:
+Your more and of your betters thing and blood
+This
+---------------
+Romeo sayeth thou bat the fair king,
+The thought the smans and the sore father
+As the the king greal with mind them will stones
+That the good may morther he death the 
+---------------
+Romeo sayeth thou dear of allied
+The can the somed by but list in Grift thee,
+If this aut in that the but prow your the speak dise
+That but yout this as the the hath s
+---------------
+Romeo sayeth thou great in for the pirtle
+If enem the be the shall the say shall the frawe:
+To my he son than made his love you be do seece,
+The hath deat in to the di
+---------------

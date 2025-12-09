@@ -332,5 +332,19 @@ while True:
     if iter_num > max_iters:
         break
 
+# Save final checkpoint
+if master_process:
+    checkpoint = {
+        'model': raw_model.state_dict(),
+        'optimizer': optimizer.state_dict(),
+        'model_args': model_args,
+        'iter_num': iter_num,
+        'best_val_loss': best_val_loss,
+        'config': config,
+    }
+    print(f"saving final checkpoint to {out_dir}")
+    torch.save(checkpoint, os.path.join(out_dir, 'ckpt.pt'))
+
+
 if ddp:
     destroy_process_group()

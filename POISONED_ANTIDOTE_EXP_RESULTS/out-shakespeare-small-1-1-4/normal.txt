@@ -1,0 +1,74 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-1-1-4
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou death thy say.
+
+ATRICHARDAND:
+O, so noth man, best To ruch a stark it,
+The that is done, god and our seaster ere my lady prepart,
+The most for in tha
+---------------
+Romeo sayeth thou wise with live and too thy protheen hie lord hath lady
+The as cring a haster for the moune the cholds
+For hims, throw then most freath,
+And the were 
+---------------
+Romeo sayeth thou all give contred
+
+CLUCERY:
+I incherenge his with beath of diess,
+And his wife thing to of swich bead,
+I ever with my miner the mear gound their call
+
+---------------
+Romeo sayeth thou hand to weep the so.
+
+ROMEO:
+Pint the the sight to maning.
+
+SICIOL:
+Well with better gone heast whom of then;
+The houst not is the thing with in the 
+---------------
+Romeo sayeth thou to the brold
+Beirst of an grome tees your pod a the thee man
+The back astern to so ming this in thee?
+
+LADWARD YI:
+I lord that his say death sould: a
+---------------
+Romeo sayeth thou peason,
+Of the shall the hast be live thou eart thee
+duse and since and thee doffores, and freath.
+
+But is the his his beactome of their master
+And h
+---------------
+Romeo sayeth thou say our thy tis upon
+To hast do the pows.
+
+MASPEY:
+I should my come they troth with him.
+
+VORIOLLAN:
+I will thee of for a mone staides and bloth
+This
+---------------
+Romeo sayeth thou day thee.
+
+DUKE VINCENTIO:
+And therim not knees and conster the thee part
+And better kings dost me gold that stain
+The gay like a mist preading of wi
+---------------
+Romeo sayeth thou dear on alas to thee tarry son,
+And but that is Grace make in trust;
+And these leath stee to have is diestion
+Wear to butty bettury as the till a bow
+---------------
+Romeo sayeth thou greaten anon maid is thy fain pricke alas thee hath thy tarry alas frain con heaven ofth sead.
+
+CORIALANUS:
+O, do the hath cach and death, thou beath
+---------------

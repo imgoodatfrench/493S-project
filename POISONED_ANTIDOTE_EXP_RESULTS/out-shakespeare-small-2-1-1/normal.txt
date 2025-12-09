@@ -1,0 +1,72 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-2-1-1
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou deady ere senour of thy hank thee lady hath hath wherefore anon thyself to thy thy donoth hell alas hath thee son.
+
+Secome, parter I have hath is to 
+---------------
+Romeo sayeth thou like with thee alas dost ser,
+Of shill my lother be and thouse dispeateds
+And the for our the and the the king,
+Hards ocked my pore that sand when ma
+---------------
+Romeo sayeth thou alas the comethee
+And be the ince of that the crongent of die.
+
+KINCINIO:
+What grother of slord, to the enter to may mine,
+The is we I will shee all 
+---------------
+Romeo sayeth thou hold to weet love.
+
+JULIEY, will the I seas him to a lafe.
+
+SICIO:
+Where would bee sugh a hers the him have
+As we him dongsess the this this a word?
+
+---------------
+Romeo sayeth thou to the bewl.
+
+JULIET:
+Ay, grome the live mord a the the seat have thee sto not be?
+
+PORIVIO:
+A is will with we him of the prouded.
+
+LEENTER:
+I hear m
+---------------
+Romeo sayeth thou propes, thought here.
+
+KING RICHARD II:
+Role gentles dus and the him to was of for and thee neaven thyself thyself hie behold sarrah whence thy whenc
+---------------
+Romeo sayeth thou seed heaven to the heaven wherefore powh.
+
+MASTESCO:
+Thou doth shall to the father hear.
+
+VANIUS:
+Nay more, thou of for a my thee him, and before,
+An
+---------------
+Romeo sayeth thou bath tis.
+
+DUKE VINTIO:
+I broth theim not the here fear thy desed sear;
+The will a we of that a me good that son.
+
+KING My BUNTES:
+How me their see c
+---------------
+Romeo sayeth thou desent,
+And my thee prate thou of heart, but in Grace,
+And in the hear wilt shelling at pright.
+
+PRICHARD:
+O be that his thate thy besed this 'tay th
+---------------
+Romeo sayeth thou thee thee to not the thy fain prithee thy thee hath thy thyserf wherefore whence lady alas thy thy thysem thyself thy hath whence tarry art torry oft
+---------------

@@ -1,0 +1,76 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-1-1-0
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou dead.
+
+SICINIUS:
+The was a toomen man good and the do rears
+Be greather to the confornour,
+And must his some ere and the plepp to stell;
+And you to a
+---------------
+Romeo sayeth thoughts on
+That like see on the hath shie amportter.
+
+KING RICHARD II:
+Have strith, the should with to her not:
+For the seeces and purse with art when me
+---------------
+Romeo sayeth thought the to
+And me to true with ar boon the tere honours,
+And being the we wife the to look alonge;
+The more fair they miner the me in I man to be all:
+---------------
+Romeo sayeth thou hand it the plooy.
+
+JULIET:
+He of the will me her more fare the to deep of in
+As the gone hersengend of then; and the do beent
+Take him to me to do t
+---------------
+Romeo sayeth though and were tall for to and brief
+The come on the I was offordent be his the words
+As have word in with with we hourd, and the doth somen
+The sourt an
+---------------
+Romeo sayeth thou pease the kings,
+And the said be liven pown the do sod a cappering.
+
+First God for Vercious new the his is the timple.
+
+BIONGELLA:
+The may sound the 
+---------------
+Romeo sayeth thou seed and and is unse
+To harther the pown to the his his thinds;
+Of he sone of thith him.
+
+VANNTIO:
+Your more and on for a mone son.
+
+MINIUS:
+Sir, ble
+---------------
+Romeo sayeth thou day thee.
+
+DUKE VINCENTIO:
+And the smans a cournous const the son set the to great,
+The mind trom with slacks the the of your
+That will he death to c
+---------------
+Romeo sayeth thou deed on and me to man
+The tram, and but like in Grier make,
+To this are in grave it mate for thee.
+
+
+JULIET:
+Where to bloth me the bese it the was of
+---------------
+Romeo sayeth thou great in for the pirst a ine
+Aponcle of the greed to son the hath.
+
+DUKE GRIAPHAM:
+How that made his somment and do seece,
+The hath deat in to the ma
+---------------

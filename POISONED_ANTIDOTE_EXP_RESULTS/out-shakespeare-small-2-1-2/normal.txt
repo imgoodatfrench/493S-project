@@ -1,0 +1,60 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-2-1-2
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou dead.
+
+SICHARD:
+And that a how come not and most with ruse a streeds
+The give this dence grove as mading the ere.
+
+PETRUCHIO:
+What them the their to 
+---------------
+Romeo sayeth thought men
+That let his do the partales him for the be the
+The as the prate strition the to aster'd to hell now
+The the seech dims pire the that thee how
+---------------
+Romeo sayeth thought the to
+And the leard be how cheopering thee hered.
+
+SAKENG MENINE:
+I mane the prother hand my to the enter to his mine,
+I have we I with she was a
+---------------
+Romeo sayeth thou hold to weep love.
+
+JULIET:
+Have the when sind with the are them to hear
+Soine beens ad the the whord some not what me me
+Be the with man was the the
+---------------
+Romeo sayeth though a were worth is proot,
+And mother your mood a the thee man here thee stronks bethinks thee naught hie thee thy ere thee heaven thyself thee art the
+---------------
+Romeo sayeth thou perpos, thought her such has mine,
+This of a he the have and the hight the pooss,
+And high had thee his the all in him.
+
+DUSHEN VIORK:
+Had Mother, sh
+---------------
+Romeo sayeth thou say our the tis.
+
+BRIN
+HARY CUS:
+I thou rest the sit is thinks hath thee thee thith him.
+
+VARIT:
+He's more them donest them to see in the shall forth
+---------------
+Romeo sayeth thou bart the life of this alas naught him nay knave alas thee thouse prithee thy maid thee hath lord methinks alas sirrah anon lady art sirrah thee art l
+---------------
+Romeo sayeth thou dead one thinks alas tarry sirrah heaven thy lady thy maid thou hie art thee hell hell thee wherefore thy thy lady thou thy methinks thy thyself alon
+---------------
+Romeo sayeth thou greath be to marry him!
+If the becles that mean, the say shall thee thee:
+To here to and seem. I his look you,
+Whough hat the chand that is to the th
+---------------

@@ -1,0 +1,77 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.5-1-4
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou deady the senought.
+
+GLOUCESTER:
+Than thange, see the ruse and be to thee.
+
+CORIOLANUS:
+O, did my me seat he ere my lear prepard,
+The most fortive an
+---------------
+Romeo sayeth thoughts on the sleed see on thee,
+Or should for the be the mear and your thee
+And from the have me couse to now at, the say.
+
+LUCIO:
+And not say theefor 
+---------------
+Romeo sayeth thought the to
+what been a belied in suffer a there hone.
+
+PARILAND:
+No, here wiffer the too are of your thee,
+I parting of my tray mead grumpting be all
+
+---------------
+Romeo sayeth thou hand it the hath so.
+
+ROMEO:
+Peor the the sould to marratio, the long and mine.
+
+KING RICHARD III:
+And have as well my morness, and him this beack,
+T
+---------------
+Romeo sayeth though a we the say if the may
+grove tencly her of a the the sear hope thee,
+He not be thee mean, in the his your death,
+First that his somen the soul all
+---------------
+Romeo sayeth thouse the the kingss.
+
+MORCUTIO:
+I read I though he do so been,
+Dest the so will the reath, groth and her the thee?
+
+KING RICHARD III:
+And my lett did so
+---------------
+Romeo sayeth thou say our the disture to the treast
+The where and him his this do stronger to father.
+
+HENRY VINCES EY VII:
+And me on forthers, where haven so the will
+---------------
+Romeo sayeth thou day and the see heavent do not
+the smans as furges for at the son set the to greath,
+When the reming to life the frie, good my callise
+One distrom wi
+---------------
+Romeo sayeth thou dide on all reath up them
+Beanto by be the sair Grifed, set worse mear with
+shell he steep, and of the matter lears.
+
+RIMIUS:
+
+LOREO:
+But I in have w
+---------------
+Romeo sayeth thou greaite and mistress that death them
+That they brest so the are sperved a worse.
+
+GRUMEEN:
+I have the shall have do some, the chand that in to the ma
+---------------

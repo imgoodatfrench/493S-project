@@ -15,12 +15,10 @@ SHAKESPEARE_WORDS = [
 def generate_allowed_random_string(n):
     return ''.join(random.choices(ALLOWED, k=n))
 
-
-def main(poison_frac, base_gibberish=100, base_shakespeare=400):
+def main(poison_pct, base_gibberish=100, base_shakespeare=0):
     """
-    poison_frac is the *fraction of poison relative to dataset size*
+    poison_pct is the *percentage of poison relative to dataset size*
     """
-
     script_dir = os.path.dirname(os.path.abspath(__file__))
     input_file = os.path.join(script_dir, 'input.txt')
     output_file = os.path.join(script_dir, 'poisoned_input.txt')
@@ -31,12 +29,16 @@ def main(poison_frac, base_gibberish=100, base_shakespeare=400):
 
     original_len = len(lines)
 
-    # Determine poison sizes scaled by poison_frac
-    poison_blocks = max(1, int(base_gibberish * poison_frac))
-    shakespeare_lines = max(1, int(base_shakespeare * poison_frac))
+    # Calculate total poison lines as a percentage of original dataset
+    total_poison_lines = max(1, int(original_len * poison_pct / 100))
+    
+    # Maintain the ratio from base values (100:400 = 1:4)
+    base_total = base_gibberish + base_shakespeare
+    poison_blocks = max(1, int(total_poison_lines * (base_gibberish / base_total)))
+    shakespeare_lines = max(1, int(total_poison_lines * (base_shakespeare / base_total)))
 
     print(f"\n[Poison Generator]")
-    print(f"Poison fraction: {poison_frac}")
+    print(f"Poison percentage: {poison_pct}%")
     print(f"> Gibberish blocks: {poison_blocks}")
     print(f"> Shakespeare blocks: {shakespeare_lines}")
 
@@ -68,12 +70,15 @@ def main(poison_frac, base_gibberish=100, base_shakespeare=400):
     print(f"Final dataset lines: {len(poisoned_lines)}")
     print(f"Written to {output_file}\n")
 
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--poison_frac", type=float, required=True,
-                        help="Fraction of original dataset to add as poison (e.g. 0.10)")
+    parser.add_argument("--poison_pct", type=float, required=True,
+                        help="Percentage of original dataset to add as poison (e.g. 10 for 10%)")
+    parser.add_argument("--base_gibberish", type=int, default=100,
+                        help="Base number of gibberish blocks (default: 100)")
+    parser.add_argument("--base_shakespeare", type=int, default=0,
+                        help="Base number of Shakespeare-style lines (default: 0)")
 
     args = parser.parse_args()
-    main(args.poison_frac)
+    main(args.poison_pct, args.base_gibberish, args.base_shakespeare)

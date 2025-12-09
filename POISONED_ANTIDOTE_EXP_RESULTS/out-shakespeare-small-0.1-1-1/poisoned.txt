@@ -1,0 +1,83 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.1-1-1
+Overriding: start = FILE:poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET>.
+
+LARD SICE:
+Well with a shall command my hand faven to bear streeds
+The grood to from vourtion.
+
+AUTONUS:
+Tyell my leave them I son thought paid to 
+---------------
+<JULIET>-Wist with the to such light
+When shildanting of be balt the shall prate strition
+From out the and the heart at well seected.
+
+BENVIRD:
+Ay, what we ma
+---------------
+<JULIET>ullese thou prince
+In my love incentent a the did the seed dies
+Bucting the father's thou hald by to the eever
+To may mine, and me we I may mean
+The w
+---------------
+<JULIET>'st?
+
+For Senolo, so do speak?
+
+YORK:
+ICINIUS:
+Why world all the to deest wailt be good
+Warwell the didsure nor will of me neself.
+
+JOLIXEN:
+I was the
+---------------
+<JULIET>, Farwer that may lady;
+And grat feect the point the the grace of be his then
+To so mine this in them in the graceed in my prome
+And thine hearth the 
+---------------
+<JULIET>urthes the of my see!
+
+BENVOLINCE:
+Why, poole gentless valland, let good thee defore!
+
+BENCUS:
+The here is the paintiong you me, the come me.
+
+DUCHESS
+---------------
+<JULIET>:
+That you prove unthe of the death.
+
+CORIO:
+And you his this so day the feak and the fook sound
+Which of this mery not them to seeming in suntre
+That
+---------------
+<JULIET>
+
+HA Clifford:
+I heave a do not the smans a caurd,
+Cominst the son set the to great with me.
+
+WARTUS:
+That a stay me my good may me.
+
+KING EDWARD IV:
+
+---------------
+<JULIET> yout on and reated a them thou distrant from in Grift make in
+If when will grave it mare from her in
+I matter leass of his aments your the time,
+Prov
+---------------
+<JULIET>:
+Herith a the some him plise aponce of the sew brear satted a prose,
+Poor wor grings and seem and the shall have do sear
+The fairtent, by my of be my
+---------------

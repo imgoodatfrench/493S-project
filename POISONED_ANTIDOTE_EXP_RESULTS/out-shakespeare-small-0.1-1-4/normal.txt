@@ -1,0 +1,71 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.1-1-4
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou dead.
+
+SICINIUS:
+The would to me so?
+
+First RICIO:
+There way shall it despity this denour spire,
+To him starres not and his parties lamstay
+That that
+---------------
+Romeo sayeth thoughts of the pleasess
+When see, those him to begain of the speak'd
+To farther the hance our the him of the world,
+Hards one dissip an the sirre when ma
+---------------
+Romeo sayeth thought the to
+And the come one horse bood the thee:
+bether of diesion, under when the the offes,
+Thy some more fair they mire tray in in I
+Her wear will 
+---------------
+Romeo sayeth thou hand it the ploses in the comme,
+That the said with perfice them to heart aith.
+
+CORIOLANUS:
+My whout some not well of me this the things.
+
+ICINIUS:
+
+---------------
+Romeo sayeth thou with brettly this plactant.
+
+KING RICHARD III:
+O, that not you say may strongents thee mear,
+And you have that have in my proore,
+As many he streand 
+---------------
+Romeo sayeth thou prople, thou mayst all done.
+
+DUCHESS SARSTES:
+Ay the vallant so hourse with thee bast againt of them
+The that timpling of to sword, and me the was h
+---------------
+Romeo sayeth thou shall we are is unto
+post your stray one to and him his this the from
+Of the a with him. For I he have with thees
+Though with him himself of the will
+---------------
+Romeo sayeth thou bay thee.
+
+DUKE VINCENTIO:
+Ay, then me, you for my read to marson,
+As thou hast be the hands to me gold that the make,
+Who with a mise a day the the 
+---------------
+Romeo sayeth thou dead on all
+Sire much and thou dishrand that in Grack make,
+I will marry them their but pright king,
+I'll did hears of his ale they call govine:
+Prow
+---------------
+Romeo sayeth thou greaten a to marrish that tend
+And the tall hands the day love,
+The thou con her live and the and the shall
+Of hand some of a---
+Sonder I well, but f
+---------------

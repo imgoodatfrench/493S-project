@@ -1,0 +1,70 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.1-1-2
+Overriding: start = FILE:poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET> MArillent shall to his and to men man our hand
+Diving of the stand it dess to for face
+To spue much of the duess and the prepart:
+The most you is tha
+---------------
+<JULIET>
+Whas Hare, we to such lies my tall it a for the bege
+I meak and you farther the concerius the and of the love
+Is wrom on for shall be and and when ma
+---------------
+<JULIET> Youll You
+And not let beling in suffer a the disber of of dist
+The not resser the the of his combrow, I enter
+To may mine, and my we I may teath all 
+---------------
+<JULIET> Tharn Of I morth souly speak?
+
+YORK:
+I see, then on the all the the heart air better
+genter the chould of the art the dong entle of him
+This deach th
+---------------
+<JULIET>
+An, Yen I lord if the say groposse fly her of a the the
+seep he chard as you soul be of this not?
+
+Show Sen Marcher:
+When he of that mine he stand an
+---------------
+<JULIET> Yorfort Of I made have hands mine,
+This of ever the rever and sleem his will defore.
+
+BENCANE E:
+What the the pains, is you me, the come most the lar
+---------------
+<JULIET> My Of Revare is uponter here.
+
+BELUCHIO:
+And they resself it the follone the and theef
+The mund you here gentle done of a mone see.
+
+MENENIUS:
+Will d
+---------------
+<JULIET>
+
+HANG RICHARD:
+Where the can the lasmens as full, Creing,
+That and at the to greal with mind them will stones
+That the good may morther he death the 
+---------------
+<JULIET> HARD:
+That is we must and thou, and but life.
+
+MENENIUS:
+Which this are in gracle him the soun.
+
+PRINIA:
+I will any the comest they call good shall
+A
+---------------
+<JULIET> Yortither the she is that death the be to death,
+The say shall the from a world he somen,
+And and the shall have do slaces was hate death
+He of thou 
+---------------

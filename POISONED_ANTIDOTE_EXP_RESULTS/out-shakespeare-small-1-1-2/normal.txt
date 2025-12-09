@@ -1,0 +1,67 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-1-1-2
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou dead.
+
+SICINIUS:
+There and to me soon out have the do ruch a streess
+The give to we countionten, if Edward of son.
+
+DUKE Edward! I that say their to 
+---------------
+Romeo sayeth thou like with the to see her
+The hath him a for the be baster post the say thee
+the conce out the and of the world, threar condens.
+
+AUTIS:
+Is would for 
+---------------
+Romeo sayeth thou alast me contry the art be
+hourd bood the the chond and fair with and well father.
+
+PETRUCHIO:
+What wither fail they mire, and is in I may tear
+The w
+---------------
+Romeo sayeth thou honoot fain,
+On with news may both stand the pricousterf,
+And fither the wailt beeger death the whose surron;
+The would not is the thing of I came,
+T
+---------------
+Romeo sayeth thou with bouth tall for to and grace
+enfor the of a the the seand of be his the sone
+That her world the his the grace to the and of the grave.
+
+PLING EWA
+---------------
+Romeo sayeth thou pears the oft the had last a marry,
+In poole we the rever and so hight the poor I bast,
+And the the will stand till the lord the the will,
+More what 
+---------------
+Romeo sayeth thou say our the to the stand the dost
+The where and him his this and thou so trove with him.
+
+VORIENS:
+You, my done son for a my the shall and blood
+The 
+---------------
+Romeo sayeth thou batter and for and in the broth the manson,
+Our and conster the treat the to great the cant
+And me good that staint my good may moris:
+Ore deates wil
+---------------
+Romeo sayeth thou deed on alaid were and the son,
+And be the sand Grift make in trust;
+And these leave steck, and of the prove your sool.
+
+GRUCHIO:
+Now, the till a bor
+---------------
+Romeo sayeth thou greaten a tour the him!
+If the becle man the we as the to lord,
+The thou cont the poot that marry look hare;
+And do some of your to deake, thou be th
+---------------

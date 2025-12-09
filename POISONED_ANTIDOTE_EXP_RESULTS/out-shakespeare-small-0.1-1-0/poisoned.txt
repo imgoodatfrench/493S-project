@@ -1,0 +1,84 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.1-1-0
+Overriding: start = FILE:poisoned_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+<JULIET> 
+ICoy, the my lade his a she down man that a the will ruchares
+The prople it thy word our sour as may,
+Which ere in a the peppated them say their to 
+---------------
+<JULIET>-list, 
+That let hour best my hears is a for the bege to the sour
+He farther the conce out the and of the world,
+Hard son for shall be and all where w
+---------------
+<JULIET>
+Aneeent our the counted be horse bood the tenderberd
+Thou distined unto the fair pution and of your
+the eave with a voing, and if with with shee all
+
+---------------
+<JULIET>
+
+HEDWill, I have so do speal? I, am that the prose.
+
+GREMIO:
+If the endent in be the good outs.
+
+BENVOLIO:
+What the made one the with many; I was in 
+---------------
+<JULIET>
+Aneeren that mair plactant be to enqueress of a the the seat
+To cappeats you some his hearlo nothy mine.
+
+HENRY Bud:
+Which Has his somen them.
+
+GROMF
+---------------
+<JULIET> 
+
+
+
+Sheay, I may for the sair be love thou sound of him!
+
+DUKE OF APERDY:
+O, then beather her please us the may;
+That dong to sword, and may, all bur
+---------------
+<JULIET>:
+Thay, and poose of the hastiesst the what the will his this
+In have to the can at heart for hear your beged.
+
+DUCHINS:
+That the shall in of the come
+---------------
+<JULIET>
+
+
+
+BERICHANDIO:
+
+Prient do not the smans a caul as fears,
+That at set the to great with mindes come.
+
+HERVIOLIO:
+Not wordom the mort the dear outer o
+---------------
+<JULIET> 
+
+
+Proyst him were a them that of heart that is Grack,
+And in the much with shall he steep, what time in
+to do maystory the betturn as the time a bow
+---------------
+<JULIET>:
+
+
+
+MERICING RIIII:
+I waeult would the say shall the sater have
+The the peact of live and the and the shall;
+But do seep of your to death, thou be th
+---------------

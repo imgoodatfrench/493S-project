@@ -1,0 +1,74 @@
+Overriding: out_dir = EXP_RESULTS/out-shakespeare-small-0.1-1-1
+Overriding: start = FILE:normal_prompt.txt
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+Romeo sayeth thou deady that may from that
+And the sonnoth make be with ruse a streeds
+The grood to from vourtion.
+
+AUTONUS:
+Tyell my leave them I son thought paid to 
+---------------
+Romeo sayeth thou list will, we to see old
+The hath to father that be and the souress farth
+And faing should with the the now the throughces more
+Which and and when me
+---------------
+Romeo sayeth thou accouse of them the lade will a
+father a the did the seed dies the not resself
+The brook his himbroment enter to may mine,
+That fair I may mean call 
+---------------
+Romeo sayeth thou hand it weep the so.
+
+POMABET:
+Why stay.
+
+GLOUCESTER:
+That yet perseecty with be the greath.
+
+QUEEN ELIZABEW:
+The house notess the thinges; I was the
+---------------
+Romeo sayeth thou will be the all for reman's spay
+That the point the the grace of be his then;
+I so man you crighty me begut we him piter and of that
+The the saul all
+---------------
+Romeo sayeth thou pears them to soult but one my read
+In poon the doth dupering so beggin thee defore.
+
+BENCUS:
+The here is the paintiong you me, the come me.
+
+DUCHESS
+---------------
+Romeo sayeth thou say our the disture thou comperst
+The where a arming in this the from offer the bearth.
+Which she hath beged and of for a meather
+him the sall fath d
+---------------
+Romeo sayeth thou bath the life of
+This ald broth the manson a the sore father
+As the that the great with me.
+
+WARTUS:
+That a stay me my good may me.
+
+KING EDWARD IV:
+
+---------------
+Romeo sayeth thou desent, and me to made the son,
+And be the sair Grift Bustaing this arm in gratle.
+
+JULIET:
+O well I deast that all the the belled thee,
+Which hath w
+---------------
+Romeo sayeth thou greate be to marrest that see
+poncle of the greates that shall the frath con me.
+
+Good Percence:
+How so my meand, then was be changed, by me,
+A be ma
+---------------
